@@ -1,0 +1,9 @@
+C:\Users\Aluno\source\repos\ServicoTeste\ServicoTeste\bin\Debug\ServicoTeste.exe.config
+C:\Users\Aluno\source\repos\ServicoTeste\ServicoTeste\bin\Debug\ServicoTeste.exe
+C:\Users\Aluno\source\repos\ServicoTeste\ServicoTeste\bin\Debug\ServicoTeste.pdb
+C:\Users\Aluno\source\repos\ServicoTeste\ServicoTeste\obj\Debug\ServicoTeste.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\ServicoTeste\ServicoTeste\obj\Debug\ServicoTeste.Service1.resources
+C:\Users\Aluno\source\repos\ServicoTeste\ServicoTeste\obj\Debug\ServicoTeste.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\ServicoTeste\ServicoTeste\obj\Debug\ServicoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ServicoTeste\ServicoTeste\obj\Debug\ServicoTeste.exe
+C:\Users\Aluno\source\repos\ServicoTeste\ServicoTeste\obj\Debug\ServicoTeste.pdb
